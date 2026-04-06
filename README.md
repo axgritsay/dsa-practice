@@ -6,7 +6,7 @@ Personal solutions to algorithmic problems from LeetCode.
 
 | Platform | Focus | Problems solved |
 |----------|-------|----------------|
-| LeetCode | NeetCode roadmap | 0 |
+| LeetCode | NeetCode roadmap | 3 |
 ## Approach
 
 Each solution includes:
