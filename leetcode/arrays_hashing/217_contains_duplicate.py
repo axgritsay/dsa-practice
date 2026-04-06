@@ -25,7 +25,7 @@ def hasDuplicate(nums: list[int]) -> bool:
     return False
 
 if __name__ == "__main__":
-    assert hasDuplicate([1, 2, 3, 1])
-    assert not hasDuplicate([1, 2, 3, 4])
-    assert hasDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2])
-    print("All tests passed")
+    assert hasDuplicate(nums = [1, 2, 3, 1])
+    assert not hasDuplicate(nums = [1, 2, 3, 4])
+    assert hasDuplicate(nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2])
+    print("All tests passed!")

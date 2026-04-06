@@ -35,4 +35,4 @@ if __name__ == "__main__":
     assert isAnagram(s = "racecar", t = "carrace")
     assert not isAnagram(s = "jar", t = "jam")
     assert isAnagram("", "")
-    print("All tests passed")
+    print("All tests passed!")
